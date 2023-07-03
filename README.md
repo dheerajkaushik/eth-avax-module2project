@@ -1,4 +1,4 @@
-# React Crypto ATM
+# React  ATM
 
 This is a simple React component for a Crypto ATM application. It allows users to connect their MetaMask wallet, view their account balance, deposit and withdraw ETH, and check the owner's name.
 
@@ -11,7 +11,6 @@ The Crypto ATM component provides the following features:
 - View user's account balance
 - Deposit ETH into the ATM
 - Withdraw ETH from the ATM
-- Check the owner's name
 
 Please note that the component assumes you have set up and configured MetaMask in your browser.
 
@@ -34,7 +33,3 @@ After cloning the github, you will want to do the following to get the code runn
 After this, the project will be running on your localhost. 
 Typically at http://localhost:3000/
 
-## Video Walkthrough
-
-
-https://www.loom.com/share/dd93eda0885645b384dc1d17fc2ab055
